@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Fullstack Node Modules Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timzo31/fullStackNodeJS.git"
+  },
+  "author": "Timera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timzo31/fullStackNodeJS/issues"
+  },
+  "homepage": "https://github.com/timzo31/fullStackNodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
